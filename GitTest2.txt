@@ -3,4 +3,7 @@ public class GitTest2{
 		
 		public GitTest()
 		print = "This is my GitHub test";
+		
+		public String getPrint()
+			return print;
 }
