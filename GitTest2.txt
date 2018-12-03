@@ -1,6 +1,5 @@
 //Nikitha 
 //Dixith
-//December
 public class GitTest2{
 	private String print;
 		
