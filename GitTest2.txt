@@ -1,0 +1,6 @@
+public class GitTest2{
+	private String print;
+		
+		public GitTest()
+		print = "This is my GitHub test";
+}
